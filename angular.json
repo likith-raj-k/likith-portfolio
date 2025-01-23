@@ -81,7 +81,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "likith-portfolio:build"
+            "browserTarget": "likith_portfolio_new:build"
           }
         },
         "test": {
