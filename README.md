@@ -1,7 +1,7 @@
 ![A preview](https://github.com/nirajprakash/nirajprakash.github.io/blob/main/images/banner.png)
 
 # Personal Portfolio 
-<!-- > [nirajprakash.github.io/](https://nirajprakash.github.io/) -->
+> [likithrajk.github.io/](https://likithrajk.github.io/)
 
 - **Framework**: [Angular14](https://angular.io/)
 - **Styling**: [SCSS](https://sass-lang.com/)
@@ -18,9 +18,7 @@
 
 ## Sections 📚
 ✔️ About\
-✔️ ShowCases : Clients Projects, Icons, Logos \
 ✔️ Expertise \
-✔️ Tech Stack \
 ✔️ Contact \
 
 ## Running Locally
