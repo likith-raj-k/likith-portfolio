@@ -1,4 +1,4 @@
-![A preview](https://github.com/nirajprakash/nirajprakash.github.io/blob/main/images/banner.png)
+![A preview](https://github.com/likith-raj-k/likith-portfolio/blob/master/images/banner.png)
 
 # Personal Portfolio 
 > [likithrajk.github.io/](https://likithrajk.github.io/)
